@@ -38,5 +38,20 @@ namespace ALGA_tetelek
             {
             }
         }
+
+        internal class HibasIndexException : Exception
+        {
+            public HibasIndexException()
+            {
+            }
+
+            public HibasIndexException(string? message) : base(message)
+            {
+            }
+
+            public HibasIndexException(string? message, Exception? innerException) : base(message, innerException)
+            {
+            }
+        }
     }
 }
