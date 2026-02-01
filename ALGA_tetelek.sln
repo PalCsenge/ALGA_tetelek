@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALGA_tetelek", "ALGA_tetelek\ALGA_tetelek.csproj", "{3C3E5308-77B0-4EFC-93D2-9757C1CB4B5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C3E5308-77B0-4EFC-93D2-9757C1CB4B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3E5308-77B0-4EFC-93D2-9757C1CB4B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3E5308-77B0-4EFC-93D2-9757C1CB4B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3E5308-77B0-4EFC-93D2-9757C1CB4B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B746CEF7-FAB5-494B-9794-C93D50DD7EF0}
+	EndGlobalSection
+EndGlobal
